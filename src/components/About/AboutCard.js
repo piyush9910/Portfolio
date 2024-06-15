@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Piyush Suri </span>
             from <span className="purple"> New Delhi, India.</span>
             <br />
-            I am currently employed as a software developer at Ernst & Young LLP.
+            I am currently employed as a Full Stack Software Developer at Ernst & Young LLP.
             <br />
-            I have completed Integrated MCA (Master's of Computer Application) at Chandigarh University (CU-IDOL).
+            I have completed MCA (Master's of Computer Application) from Chandigarh University (CU-IDOL) and BCA (Bachelor's of COmputer Application) from Guru Gobind SIngh Indraprastha University (GGSIPU).
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

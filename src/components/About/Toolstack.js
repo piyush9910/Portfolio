@@ -6,14 +6,21 @@ import {
   SiSlack,
   SiVercel,
   SiMacos,
+  SiNetlify,
+  SiOpenai,
+  SiAzuredevops,
+  SiJson,
+  SiPowerbi,
+  SiLinux,
+  SiVisualstudio,
 } from "react-icons/si";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="tech-icons">
+      {/* <Col xs={4} md={2} className="tech-icons">
         <SiMacos />
-      </Col>
+      </Col> */}
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
       </Col>
@@ -25,6 +32,30 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVercel />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiNetlify />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiOpenai />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAzuredevops />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiJson />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPowerbi />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiLinux />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiVisualstudiocode />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiVisualstudio />
       </Col>
     </Row>
   );
