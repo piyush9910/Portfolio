@@ -34,7 +34,7 @@ function Projects() {
               title="Place Picker"
               description="Place Picker is a React-based application that helps users manage and explore locations. It features two main sections: one for viewing places the user has visited, and another for discovering new places to visit, sorted by proximity to the user's current location. The visited places section allows users to see and interact with a list of their past visits, while the available places section offers geographically sorted options for new destinations. The app aims to enhance user experience with personalized recommendations and an intuitive interface."
               ghLink="https://github.com/piyush9910/Place-Picker"
-              demoLink="https://place-picker-kzng798es-piyush-suris-projects.vercel.app/"
+              demoLink="https://place-picker-tau.vercel.app/"
             />
           </Col>
 
@@ -58,7 +58,7 @@ Stop the Timer is a React-based game where players aim to stop a timer as close 
               description="
 React Tic Tac Toe is a basic implementation of the classic game using React. The app features a 3x3 grid game board where two players take turns clicking on cells to place their marks (X or O). The game alternates between the players, keeping track of whose turn it is, and displays the winner or a draw when the game ends. The user interface is clean and interactive, providing a straightforward and enjoyable gaming experience. This project showcases fundamental React concepts such as state management and component-based architecture."
               ghLink="https://github.com/piyush9910/Tic-Tac-Toe"
-              demoLink="https://vercel.com/piyush-suris-projects/tic-tac-toe/3aLNjRupPtLHAjVRZQeYAkKS9sre"
+              demoLink="https://tic-tac-toe-kohl-xi.vercel.app/"
             />
           </Col>
 
